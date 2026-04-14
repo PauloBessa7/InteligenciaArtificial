@@ -1,4 +1,6 @@
-# InteligenciaArtificial
+Paulo Henrique Basso Bessa - RA: 26005799-2 | Grupo de apenas 1
+
+# InteligenciaArtificial 
 
 Repositório com trabalhos e atividades da disciplina de Inteligência Artificial (professor Munif).
 
